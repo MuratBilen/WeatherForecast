@@ -1,5 +1,5 @@
 # WeatherForecast Application
-![](WeatherApp-Gif.gif)
+![](WeatherApp-Gif.gif){:height="700px" width="400px"}
 
 A simple, opensource weather app for Android. It gathers data from OpenWeatherMap, via their public API.
 # What is used?

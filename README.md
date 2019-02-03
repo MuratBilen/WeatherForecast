@@ -4,6 +4,7 @@
 A simple, opensource weather app for Android. It gathers data from OpenWeatherMap, via their public API.
 # What is used?
 Android Asynchronous Http Client library is used. http://loopj.com/android-async-http/
+
 OpenWeatherMap API is used. https://openweathermap.org/api
 
 # Version

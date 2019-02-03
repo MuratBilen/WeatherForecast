@@ -1,5 +1,5 @@
 # WeatherForecast Application
-![test image size](WeatherApp-Gif.gif){:height="700px" width="400px"}
+<img src="WeatherApp-Gif.gif" width="400" height="790">
 
 A simple, opensource weather app for Android. It gathers data from OpenWeatherMap, via their public API.
 # What is used?

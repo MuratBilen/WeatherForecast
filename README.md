@@ -6,6 +6,9 @@ A simple, opensource weather app for Android. It gathers data from OpenWeatherMa
 Android Asynchronous Http Client library is used.
 OpenWeatherMap API is used.
 
+# Version
+Min Sdk for the app is 16 and its target Sdk is 27.
+
 # Results
-You can retrive the data using GPS location or you can manually type in the city using second activity.
-After that you will see the temperature and the image related to weather.
+After giving the location access to the app, app can easily retrieve the data using GPS location. You can also manually enter the city name you wish to see using the second activity. The app shows you the temperature and image related to the weather.
+
